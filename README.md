@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-anime-avatar.com/avatar.png](https://gachax.com/anime/wp-content/uploads/sites/29/2023/06/cute-anime-girl-pfp-profile-pictures-chibi.png)" alt="Project Avatar">
+  <img src="https://gachax.com/anime/wp-content/uploads/sites/29/2023/06/cute-anime-girl-pfp-profile-pictures-chibi.png" alt="Project Avatar">
 </p>
 
 # 🌟 Some words from me about this repo 🌟
